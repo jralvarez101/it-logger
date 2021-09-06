@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "message": "changed network card in server 007",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2021-09-06T22:03:09.745Z",
+      "message": "fix 002 hard drive ",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-09-06T22:53:12.383Z",
       "id": 1
     },
     {
-      "message": "Hard drive failed in workstation 002",
+      "message": "hard drive failed work station 23",
       "attention": true,
-      "tech": "John Doe",
-      "date": "2021-09-06T22:03:52.339Z",
+      "tech": "Sara Wilson",
+      "date": "2021-09-06T22:53:33.905Z",
       "id": 2
-    },
-    {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2021-09-06T22:04:29.667Z",
-      "id": 3
     }
   ],
   "techs": [
